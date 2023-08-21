@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
 
-  "homepage": "https://adrilix.github.io/money-guard-wallet",
+  "homepage": "https://GoitStudentsWorks.github.io/react_bc_55_adrilix",
 
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
