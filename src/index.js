@@ -11,7 +11,7 @@ import App from 'components/app/App';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/money-guard-wallet">
+      <BrowserRouter basename="/react_bc_55_adrilix">
         <App />
       </BrowserRouter>
     </PersistGate>
